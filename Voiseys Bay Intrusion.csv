@@ -1,0 +1,108 @@
+feature_name,X,Y,Z,coord,val,gx,gy,gz,intrusion_contact_type,intrusion_side
+Voiseys Bay Intrusion,555881.007,6243254.351,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,555987.86,6243137.224,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,556082.384,6242900.915,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,556193.347,6242816.665,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,556881.727,6242798.171,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,559757.125,6240965.232,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,556600.852,6241565.252,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,556432.353,6241696.764,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,556278.239,6241840.604,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,555986.448,6242241.303,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,555863.156,6242644.056,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,555645.34,6242997.493,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,555637.121,6243178.321,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,559896.856,6241244.693,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,558146.111,6242584.465,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,557866.649,6242744.745,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,558478.999,6242296.784,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,558873.533,6242498.161,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,559247.519,6241889.921,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,559543.419,6240710.428,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,558865.314,6240303.565,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,558499.548,6239941.909,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,558100.904,6239691.215,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,557344.713,6239674.776,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,557209.092,6239896.702,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,557324.165,6240270.687,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,557188.544,6240443.296,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,556937.85,6240899.476,0,,,,,,roof,TRUE
+Voiseys Bay Intrusion,556888.533,6241400.863,0,,,,,,roof,TRUE
+stratigraphy,555000,6243500,0,,1000,,,,,
+stratigraphy,561000,6243500,0,,1000,,,,,
+stratigraphy,555000,6240500,0,,1000,,,,,
+stratigraphy,561000,6240500,0,,1000,,,,,
+stratigraphy,555000,6243500,-500,,500,,,,,
+stratigraphy,561000,6243500,-500,,500,,,,,
+stratigraphy,555000,6240500,-500,,500,,,,,
+stratigraphy,561000,6240500,-500,,500,,,,,
+stratigraphy,555000,6243500,-1000,,0,,,,,
+stratigraphy,561000,6243500,-1000,,0,,,,,
+stratigraphy,555000,6240500,-1000,,0,,,,,
+stratigraphy,561000,6240500,-1000,,0,,,,,
+stratigraphy,558000,6242000,-1000,,,0,0,1,,
+Voiseys Bay Intrusion Frame,558534.48,6240720.703,0,1,0,,,,,
+Voiseys Bay Intrusion Frame,558534.48,6240720.703,0,1,,-0.85,0.53,0,,
+Voiseys Bay Intrusion Frame,557572.804,6241550.868,0,1,,-0.85,0.53,0,,
+Voiseys Bay Intrusion Frame,556397.421,6242578.301,0,1,,-0.56,0.83,0,,
+Voiseys Bay Intrusion Frame,558534.48,6240720.703,0,2,,0.53,0.85,0,axis,
+Voiseys Bay Intrusion Frame,557572.804,6241550.868,0,2,,0.53,0.85,0,axis,
+Voiseys Bay Intrusion Frame,556397.421,6242578.301,0,2,,0.82,0.56,0,axis,
+Voiseys Bay Intrusion Frame,558534.48,6240720.703,0,2,0,,,,axis,
+Voiseys Bay Intrusion Frame,557572.804,6241550.868,0,2,0,,,,axis,
+Voiseys Bay Intrusion Frame,556397.421,6242578.301,0,2,0,,,,axis,
+Voiseys Bay Intrusion,556001.217,6242984.137,-127,,,,,,floor,
+Voiseys Bay Intrusion,555997.107,6242864.954,-98.4,,,,,,floor,
+Voiseys Bay Intrusion,555998.135,6242771.458,-73,,,,,,floor,
+Voiseys Bay Intrusion,555999.162,6242688.236,-41.3,,,,,,floor,
+Voiseys Bay Intrusion,555997.107,6242554.67,-31.7,,,,,,floor,
+Voiseys Bay Intrusion,555999.162,6242466.311,-22.2,,,,,,floor,
+Voiseys Bay Intrusion,557201.258,6242643.029,-585.96,,,,,,floor,
+Voiseys Bay Intrusion,557198.176,6242546.45,-589.47,,,,,,floor,
+Voiseys Bay Intrusion,557199.203,6242423.158,-775.44,,,,,,floor,
+Voiseys Bay Intrusion,557198.176,6242309.113,-775.44,,,,,,floor,
+Voiseys Bay Intrusion,557209.478,6241673.133,-775.44,,,,,,floor,
+Voiseys Bay Intrusion,558463.973,6242191.986,-275.86,,,,,,floor,
+Voiseys Bay Intrusion,558465,6242070.749,-606.9,,,,,,floor,
+Voiseys Bay Intrusion,558463.973,6241918.689,-934.48,,,,,,floor,
+Voiseys Bay Intrusion,558872.891,6242206.37,-344.09,,,,,,floor,
+Voiseys Bay Intrusion,558868.781,6242015.268,-365.59,,,,,,floor,
+Voiseys Bay Intrusion,558854.397,6241776.903,-774.19,,,,,,floor,
+Voiseys Bay Intrusion,558866.726,6241563.197,-720.43,,,,,,floor,
+Voiseys Bay Intrusion,558053,6241308.394,-888.89,,,,,,floor,
+Voiseys Bay Intrusion,558044.78,6240926.189,-1089.61,,,,,,floor,
+Voiseys Bay Intrusion,558032.451,6240412.473,-1369.18,,,,,,floor,
+Voiseys Bay Intrusion,557278.316,6241891.976,-694.44,,,,,,floor,
+Voiseys Bay Intrusion,557685.179,6241883.756,-1083.33,,,,,,floor,
+Voiseys Bay Intrusion,558219.444,6241883.756,-1092.59,,,,,,floor,
+Voiseys Bay Intrusion,558392.053,6241883.756,-780.86,,,,,,floor,
+Voiseys Bay Intrusion,558605.758,6241896.086,-725.31,,,,,,floor,
+Voiseys Bay Intrusion,559004.402,6241891.976,-611.11,,,,,,floor,
+Voiseys Bay Intrusion,557109.817,6241090.578,-639.71,,,,,,floor,
+Voiseys Bay Intrusion,557467.363,6241086.469,-742.65,,,,,,floor,
+Voiseys Bay Intrusion,558020.122,6241080.304,-1062.5,,,,,,floor,
+Voiseys Bay Intrusion,558184.511,6241080.304,-1102.94,,,,,,floor,
+Voiseys Bay Intrusion,558443.424,6241086.469,-1147.06,,,,,,floor,
+Voiseys Bay Intrusion,558690.008,6241078.249,-1238.97,,,,,,floor,
+Voiseys Bay Intrusion,559199.614,6241078.249,-1466.91,,,,,,floor,
+Voiseys Bay Intrusion,558894.082,6240895.366,0,,,,,,vertex,
+Voiseys Bay Intrusion,557570.241,6242251.385,-10,,,,,,roof,
+Voiseys Bay Intrusion,556766.103,6242488.319,-10,,,,,,roof,
+Voiseys Bay Intrusion,558833.886,6241124.156,-15,,,,,,roof,
+Voiseys Bay Intrusion,557318.948,6241562.124,-20,,,,,,roof,
+Voiseys Bay Intrusion,558101.546,6240578.491,-20,,,,,,roof,
+Voiseys Bay Intrusion,557914.871,6241440.068,-22,,,,,,roof,
+Voiseys Bay Intrusion,558324.12,6241906.755,-25,,,,,,roof,
+Voiseys Bay Intrusion,557491.263,6240757.986,-25,,,,,,roof,
+Voiseys Bay Intrusion,556816.361,6242064.711,-30,,,,,,roof,
+Voiseys Bay Intrusion,559580.586,6241152.875,-5,,,,,,roof,
+Voiseys Bay Intrusion,559235.955,6241497.506,-50,,,,,,roof,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
